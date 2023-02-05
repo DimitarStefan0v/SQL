@@ -1,1 +1,1 @@
-# SQL and EF Core exercieses
+# SQL and EF Core exercises
